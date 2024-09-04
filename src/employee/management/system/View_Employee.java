@@ -62,10 +62,10 @@ public class View_Employee extends JFrame implements ActionListener {
         print.addActionListener(this);
         add(print);
 
-        update = new JButton("Update");
-        update.setBounds(220,70,80,20);
-        update.addActionListener(this);
-        add(update);
+//        update = new JButton("Update");
+//        update.setBounds(220,70,80,20);
+//        update.addActionListener(this);
+//        add(update);
 
         back = new JButton("Back");
         back.setBounds(320,70,80,20);
